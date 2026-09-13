@@ -3,7 +3,13 @@
 <h3 align="center">
 Software Engineer | Web Developer | Assistant Professor
 </h3>
+<div align="center">
 
+## 🐍 My Contribution Journey
+
+<img src="https://github.com/AKKash123/AKKash123/blob/gh-pages/github-contribution-grid-snake.svg" />
+
+</div>
 ---
 
 ### 👨‍💻 About Me
@@ -47,13 +53,7 @@ Software Engineer | Web Developer | Assistant Professor
 > Django + PostgreSQL + Vercel
 
 ---
-<div align="center">
 
-## 🐍 My Contribution Journey
-
-<img src="https://raw.githubusercontent.com/AKKash123/AKKash123/blob/gh-pages/github-contribution-grid-snake.svg" />
-
-</div>
 ### 📫 Connect With Me
 
 - 🌐 Portfolio:https://e-websolutions.netlify.app/
