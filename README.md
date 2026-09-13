@@ -14,7 +14,7 @@
 <br/>
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
- Contribution Journey
+ ##Contribution Journey
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
