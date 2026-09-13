@@ -1,9 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Akash%20Dhar&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Assistant%20Professor&descAlignY=55&descSize=18&descColor=C9D1D9" />
-# Hi, I'm Akash Dhar 👋
-
-### Software Engineer • Web Developer • Assistant Professor
-
+  
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Exploring+Django,+React+%26+Machine+Learning;Founder+%40+E-WebSolutions;Turning+ideas+into+code&font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&size=22&pause=1500&duration=3000" />
 
 <br/>
