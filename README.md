@@ -4,7 +4,7 @@
 
 ### Software Engineer • Web Developer • Assistant Professor
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Exploring+Django,+React+%26+Machine+Learning;Founder+%40+E-WebSolutions;Turning+ideas+into+code&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22&pause=1500&duration=3000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Exploring+Django,+React+%26+Machine+Learning;Founder+%40+E-WebSolutions;Turning+ideas+into+code&font=Fira%20Code&center=true&width=540&height=45&color=58A6FF&vCenter=true&size=22&pause=1500&duration=3000" />
 
 <br/>
 
