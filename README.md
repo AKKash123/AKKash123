@@ -83,8 +83,9 @@ Software engineer and educator with a foundation spanning full-stack development
 
 </div>
 <br/>
-## 🕐Currently Focusing On
- 
+
+## 🕐 Currently Focusing On
+
 - 🤖 Applying Machine Learning to real-world product features
 - ⚛️ Deepening React + Django REST integration patterns
 - 📚 Refining course material for BCA students on modern web development
