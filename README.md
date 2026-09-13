@@ -101,7 +101,9 @@ Software engineer and educator with a foundation spanning full-stack development
 <a href="https://github.com/AKKash123" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://raw.githubusercontent.com/AKKash123/AKKash123/main/assets/Akash_Dhar_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20Resume-306998?style=for-the-badge&logo=readdotcv&logoColor=white" />
+</a>
 </div>
 
 <br/>
