@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://e-websolutions.netlify.app/" target="_blank">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Akash%20Dhar&fontSize=60&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Assistant%20Professor&descAlignY=55&descSize=18&descColor=C0CAF5" title="Click to visit my portfolio" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,50:306998,100:0C4B33&height=200&section=header&text=Akash%20Dhar&fontSize=60&fontColor=FFD43B&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Assistant%20Professor&descAlignY=55&descSize=18&descColor=44B78B" title="Click to visit my portfolio" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Exploring+Django,+React+%26+Machine+Learning;Founder+%40+E-WebSolutions;Turning+ideas+into+code&font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&size=22&pause=1500&duration=3000" />
