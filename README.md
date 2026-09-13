@@ -51,7 +51,7 @@ Software Engineer | Web Developer | Assistant Professor
 
 ## 🐍 My Contribution Journey
 
-<img src="https://raw.githubusercontent.com/AKKash123/AKKash123/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AKKash123/AKKash123/blob/gh-pages/github-contribution-grid-snake.svg" />
 
 </div>
 ### 📫 Connect With Me
