@@ -25,6 +25,7 @@
 <br/>
 
 ## 👨‍💻 About Me
+Software engineer and educator with a foundation spanning full-stack development, applied machine learning, and academic instruction. I build production-ready web applications, mentor the next generation of developers as an Assistant Professor, and run E-WebSolutions delivering freelance projects end to end.
 
 - 🔭 **Building** web applications and software projects end-to-end
 - 🌱 **Exploring** Django, React, Machine Learning & AI right now
@@ -72,14 +73,20 @@
 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---:|
-| 📝 **Smart Todo Application** | Task manager with AI-powered task suggestions | Django REST API, React | [View](#) |
-| 📈 **Market Prediction System** | ML-driven forecasting dashboard | Python, ML, Django REST, Streamlit | [View](#) |
+| | 📝 **Smart Todo Application** | Task manager with AI-powered task suggestions | Django REST API, React | Private |
+| 📈 **Market Prediction System** | ML-driven forecasting dashboard | Python, ML, Django REST, Streamlit | Private |
 | ✈️ **TripNova Travel CRM** | End-to-end CRM for travel agencies | PHP, MySQL, Bootstrap, DataTables | [View](https://tripnova.site) |
 | 🏏 **Cricket Academy Management System** | Academy operations & member management | Django, PostgreSQL, Vercel | [View](https://aca-cricket-academy.vercel.app/) |
 
 </div>
-
 <br/>
+## 🕐 Currently Focusing On
+ 
+- 🤖 Applying Machine Learning to real-world product features
+- ⚛️ Deepening React + Django REST integration patterns
+- 📚 Refining course material for BCA students on modern web development
+<br/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 📫 Let's Connect
 
