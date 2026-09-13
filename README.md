@@ -47,7 +47,13 @@ Software Engineer | Web Developer | Assistant Professor
 > Django + PostgreSQL + Vercel
 
 ---
+<div align="center">
 
+## 🐍 My Contribution Journey
+
+<img src="https://raw.githubusercontent.com/AKKash123/AKKash123/output/github-contribution-grid-snake.svg" />
+
+</div>
 ### 📫 Connect With Me
 
 - 🌐 Portfolio:https://e-websolutions.netlify.app/
