@@ -8,11 +8,10 @@
 <a href="https://e-websolutions.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-e--websolutions.netlify.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=AKKash123&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </div>
-
 <br/>
-
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 ## 🐍 Contribution Journey
 
 <div align="center">
