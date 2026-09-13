@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akash Dhar</h1>
-
-<h3 align="center">
-Software Engineer | Web Developer | Assistant Professor
-</h3>
+<div style="text-align: center;">
+  <h1 style="background: linear-gradient(90deg, #61dafb, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3rem; font-weight: 800; margin-bottom: 0.5rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    Hi 👋, I'm Akash Dhar
+  </h1>
+  <h3 style="color: #8b949e; font-size: 1.25rem; font-weight: 400; margin-top: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    Software Engineer | Web Developer | Assistant Professor
+  </h3>
+</div>
 <div align="center">
 
 ## 🐍 My Contribution Journey
