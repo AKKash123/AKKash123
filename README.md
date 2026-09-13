@@ -59,13 +59,10 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AKKash123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
- <img src="https://github-readme-stats.vercel.app/api?username=AKKash123&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKKash123&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKKash123&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </div>
 
 <br/>
