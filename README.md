@@ -89,7 +89,7 @@ Software engineer and educator with a foundation spanning full-stack development
   <img src="https://github.com/AKKash123/AKKash123/blob/output/git-invader-multi-dark.svg" width="100%">
 </p>
 <br/>
-## 🕐 Currently Focusing On
+🕐<b>Currently Focusing On</b> 
 
 - 🤖 Applying Machine Learning to real-world product features
 - ⚛️ Deepening React + Django REST integration patterns
