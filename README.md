@@ -83,7 +83,7 @@ Software engineer and educator with a foundation spanning full-stack development
 
 </div>
 <br/>
-<h2 align="center">🌍 My GitWorld</h2>
+<h2 align="center">🌍 My Git Commit </h2>
 
 <p align="center">
   <img src="https://github.com/AKKash123/AKKash123/blob/output/git-invader-multi-dark.svg" width="100%">
