@@ -19,18 +19,12 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<a href="https://github.com/AKKash123?tab=achievements">
-  <img src="https://img.shields.io/badge/GitHub%20Achievements-View%20My%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+ <a href="https://github.com/AKKash123?tab=achievements">
+<img src="https://img.shields.io/badge/Pull%20Shark-🏆-58A6FF?style=for-the-badge" />
 </a>
-
 </div>
 
 <br/>
-
-
-
-
 
 <div align="center">
   <picture>
