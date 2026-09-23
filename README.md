@@ -15,6 +15,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
  ## Contribution Journey
+## 🏆 Achievements
+
+| Achievement | Description |
+|---|---|
+| 🦈 Pull Shark | Earned through merged pull requests |
+| ⚡ Quickdraw | Earned by resolving an issue quickly |
+| 🤝 Pair Extraordinaire | Earned through collaboration |
+| 🌟 Starstruck | Earned when repositories receive stars |
 
 <div align="center">
   <picture>
