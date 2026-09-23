@@ -17,12 +17,10 @@
  ## Contribution Journey
 ## 🏆 Achievements
 
-| Achievement | Description |
-|---|---|
-| 🦈 Pull Shark | Earned through merged pull requests |
-| ⚡ Quickdraw | Earned by resolving an issue quickly |
-| 🤝 Pair Extraordinaire | Earned through collaboration |
-| 🌟 Starstruck | Earned when repositories receive stars |
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AKKash123&theme=flat&no-frame=true&margin-w=10" />
+</p>
 
 <div align="center">
   <picture>
