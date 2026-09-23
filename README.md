@@ -15,8 +15,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
  ## Contribution Journey
-## 🏆 Achievements
 
+## 🏆 [GitHub Achievements](https://github.com/AKKash123?tab=achievements)
+
+<p align="center">
+  <a href="https://github.com/AKKash123?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My%20Official%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AKKash123&theme=flat&no-frame=true&margin-w=10" />
