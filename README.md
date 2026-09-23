@@ -16,11 +16,11 @@
 
  ## Contribution Journey
 
-## 🏆 [GitHub Achievements](https://github.com/AKKash123?tab=achievements)
+## 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/AKKash123?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20My%20Official%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏆%20View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
