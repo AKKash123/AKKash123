@@ -28,17 +28,9 @@
 
 <br/>
 
-<p align="center">
-  🏆 View my official GitHub achievements, badges, and milestones:
-  <br/>
-  <a href="https://github.com/AKKash123?tab=achievements">
-    <strong>github.com/AKKash123?tab=achievements</strong>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AKKash123&theme=flat&no-frame=true&margin-w=10" />
-</p>
+
+
 
 <div align="center">
   <picture>
