@@ -18,9 +18,21 @@
 
 ## 🏆 GitHub Achievements
 
+<div align="center">
+
+<a href="https://github.com/AKKash123?tab=achievements">
+  <img src="https://img.shields.io/badge/GitHub%20Achievements-View%20My%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+</a>
+
+</div>
+
+<br/>
+
 <p align="center">
+  🏆 View my official GitHub achievements, badges, and milestones:
+  <br/>
   <a href="https://github.com/AKKash123?tab=achievements">
-    <img src="https://img.shields.io/badge/🏆%20View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <strong>github.com/AKKash123?tab=achievements</strong>
   </a>
 </p>
 
