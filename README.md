@@ -84,12 +84,16 @@ Software engineer and educator with a foundation spanning full-stack development
 
 <div align="center">
 
+
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---:|
+| 🐍 **Python Programs — Zero to Hero** | Comprehensive Python learning collection covering Python fundamentals, control flow, data structures, OOP, algorithms, APIs, data science, machine learning, and practical projects | Python, NumPy, Pandas, Matplotlib, Machine Learning | [View](https://github.com/AKKash123/yolo-test) |
 | 📝 **Smart Todo Application** | Task manager with AI-powered task suggestions | Django REST API, React | Private |
 | 📈 **Market Prediction System** | ML-driven forecasting dashboard | Python, ML, Django REST, Streamlit | Private |
 | ✈️ **TripNova Travel CRM** | End-to-end CRM for travel agencies | PHP, MySQL, Bootstrap, DataTables | [View](https://tripnova.site) |
 | 🏏 **Cricket Academy Management System** | Academy operations & member management | Django, PostgreSQL, Vercel | [View](https://aca-cricket-academy.vercel.app/) |
+
+
 
 </div>
 <br/>
