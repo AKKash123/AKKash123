@@ -83,6 +83,7 @@ Software engineer and educator with a foundation spanning full-stack development
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKKash123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
+
 <br/>
 
 ## 🚀 Featured Projects
