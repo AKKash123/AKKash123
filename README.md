@@ -72,11 +72,16 @@ Software engineer and educator with a foundation spanning full-stack development
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AKKash123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=AKKash123&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=AKKash123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AKKash123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
 </div>
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AKKash123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AKKash123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKKash123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 <br/>
 
