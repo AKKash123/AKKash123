@@ -10,9 +10,15 @@ permissions:
 
 jobs:
   streak:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      - name: Check script location
+        run: |
+          echo "Files with 'streak' in the name:"
+          find . -iname "*streak*" -not -path "./.git/*"
+          test -f .github/scripts/streak.py || { echo "::error::.github/scripts/streak.py was not found. See the list above for where your file is."; exit 1; }
 
       - name: Generate streak card
         env:
