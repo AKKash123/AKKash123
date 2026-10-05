@@ -79,7 +79,9 @@ Software engineer and educator with a foundation spanning full-stack development
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/m/AKKash123/sk-travel-planner?style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="Monthly commits" />
 </p>
-
+<div align="center">
+  <img height="170" src="./profile/streak.svg" alt="GitHub streak" />
+</div>
 <br/>
 
 ## 🚀 Featured Projects
