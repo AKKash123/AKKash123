@@ -63,7 +63,7 @@ Software engineer and educator with a foundation spanning full-stack development
 
 **Databases & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,git,github,vscode,vercel,prisma" />
 
 </div>
 
