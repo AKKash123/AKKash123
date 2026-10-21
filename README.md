@@ -55,7 +55,7 @@ Software engineer and educator with a foundation spanning full-stack development
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,dotnet,windows,visualstudio" />
 
 **Frameworks & Libraries**
 <br/>
