@@ -96,6 +96,7 @@ Software engineer and educator with a foundation spanning full-stack development
 | 📈 **Market Prediction System** | ML-driven forecasting dashboard | Python, ML, Django REST, Streamlit | Private |
 | ✈️ **TripNova Travel CRM** | End-to-end CRM for travel agencies | PHP, MySQL, Bootstrap, DataTables | [View](https://tripnova.site) |
 | 🏏 **Cricket Academy Management System** | Academy operations & member management | Django, PostgreSQL, Vercel | [View](https://aca-cricket-academy.vercel.app/) |
+|  🦷🚭 **Oral Cancer Detector** | Dentist-tools-as-a detector | opencv,pandas,numpy,streamlit | [View]([https://oralcancerdetector.streamlit.app/]) |
 
 
 
