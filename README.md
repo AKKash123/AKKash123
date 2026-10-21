@@ -59,7 +59,7 @@ Software engineer and educator with a foundation spanning full-stack development
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,laravel,wordpress,tailwind&perline=4" />
 
 **Databases & Tools**
 <br/>
